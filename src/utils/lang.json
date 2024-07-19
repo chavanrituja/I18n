@@ -1,0 +1,23 @@
+{
+    "en": {
+        "welcomeMessage": "Welcome !",
+        "normalMessage": "We hope you enjoy learning Spanish.",
+        "greetingMessage": "Have a great day.",
+        "endMessage": "We learned spanish phrases.",
+        "usersStatMessage": "<studentCount> users are learning in this session."
+    },
+    "mr": {
+        "welcomeMessage": "स्वागत आहे !",
+        "normalMessage": "आम्हाला आशा आहे की तुम्हाला स्पॅनिश शिकण्यात आनंद होईल.",
+        "greetingMessage": "तुमचा दिवस चांगला जावो.",
+        "endMessage": "आम्ही स्पॅनिश वाक्ये शिकलो.",
+        "usersStatMessage": "या सत्रात <studentCount> वापरकर्ते शिकत आहेत."
+    },
+    "sp": {
+        "welcomeMessage": "Bienvenido !",
+        "normalMessage": "Esperamos que disfrutes aprendiendo español.",
+        "greetingMessage": "Qué tengas un lindo día.",
+        "endMessage": "Nosotras aprendimos frases en español.",
+        "usersStatMessage": "<studentCount> usuarios están aprendiendo en esta sesión."
+    }
+}
